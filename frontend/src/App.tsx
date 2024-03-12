@@ -8,6 +8,7 @@ function App() {
     <div className="App">
       <Header title="Full Stack React & ASP.NET" />
       <FoodList />
+      <br />
     </div>
   );
 }
